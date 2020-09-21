@@ -1,0 +1,25 @@
+html {
+  background-color: black;
+  text-align: center;
+}
+
+.title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.download-link {
+  font-size: 16px;
+  text-align: center;
+  color: aquamarine;
+}
+
+.download-link a:visited {
+  color: aquamarine;
+}
+
+.video {
+  text-align: center;
+}
