@@ -1,10 +1,11 @@
 html {
   background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
 }
 
 .title {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
   font-size: 50px;
   color: white;
@@ -22,4 +23,19 @@ html {
 
 .video {
   text-align: center;
+}
+
+.section-title {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+h2 {
+  text-align: right;
+  color: gray;
 }
